@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "johnsmith@gmial.com",
+      "contact": "9876543210",
+      "website": "johnsmith.com" 
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "email": "johnsmith@gmial.com",
+      "contact": "9876543210",
+      "website": "johnsmith.com" 
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "email": "johnsmith@gmial.com",
+      "contact": "9876543210",
+      "website": "johnsmith.com" 
+    },
+    {
+      "id": 4,
+      "name": "John ",
+      "email": "johnsmith@gmial.com",
+      "contact": "9976543210",
+      "website": "johnsmith.com" 
+    }
+  ]
+}
